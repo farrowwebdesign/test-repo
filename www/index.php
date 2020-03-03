@@ -20,8 +20,14 @@
       </nav>
     </header>
     <main>
+      <section>
+        <h2>Section Title</h2>
+        <p>Section text that shows some somthing.</p>
+        <img src="" alt="">
+      </section>
     </main>
     <footer>
+      <p>&copy; Copyright 2020 | Farrow Web Designs | All Rights Reserved</p>
     </footer>
   </body>
 </html>
