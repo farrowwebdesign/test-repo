@@ -3,11 +3,23 @@
 ## Contence
 `README` - This file defining useage and licence.</br>
 `LICENSE` - Containing all information regarding the project license.</br>
-`www` - All website code, images and scripts.</br>
-`www > images` - All Images</br>
-`www > css` - All Cascading Stylesheets</br>
-`www > js` - All JavaScript files</br>
-`www > php` - All PHP files</br>
+* `www`
+  * `css`
+    * styles.css (Main File)
+    * name.inc.css (Included In Main File)
+  * `js`
+    * name.fnc.js (Main File)
+    * name.inc.js (Included In Main File)
+  * `php`
+    * name.fnc.php (Main File)
+    * name.inc.php (Included In Main File)
+  * `sql`
+    * name.fnc.sql (Main File)
+    * name.inc.sql (Included In Main File)
+  * `images`
+    * name.png/jpg/svg (Image Files)
+
+  * index.php (All Pages)
 
 ## Usage
 The files sorted here are for testing and basic template purposes.</br>
