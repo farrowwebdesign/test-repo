@@ -18,6 +18,8 @@
     * name.inc.sql (Included In Main File)
   * `images`
     * name.png/jpg/svg (Image Files)
+  * `fonts`
+    * name.ttf/wof/wof2 (Font Files)
 
   * index.php (All Pages)
 
